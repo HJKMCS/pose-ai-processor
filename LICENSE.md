@@ -9,7 +9,7 @@ educational, or non-commercial evaluation purposes only.
 2. COMMERCIAL USE PROHIBITION
 You may not use this software, its source code, or any derivative works for 
 any commercial purpose, profit-generating activity, or production environment 
-without obtaining a separate, paid commercial license from the copyright holder.
+without obtaining a separate, paid commercial (IT MAY BE FREE BUT ONLY FOR research AND it the research institute responsibility to protect the "SOFTWARE" and customizeed one) license from the copyright holder.
 
 3. RESERVATION OF RIGHTS AND LICENSE CHANGES
 The copyright holder reserves the right to modify, amend, or completely change 
