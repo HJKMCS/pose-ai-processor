@@ -26,4 +26,4 @@ Built with a highly modular **10-file architecture**, this system ensures fault 
 1. **Install LM Studio** and start the local server on port `1234`.
 2. **Clone this repository:**
    ```bash
-   git clone https://github.com/hjk-inc/pose-ai-processor.git
+   git clone https://github.com/HJKMCS/pose-ai-processor.git
